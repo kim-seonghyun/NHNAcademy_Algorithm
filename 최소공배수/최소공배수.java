@@ -1,5 +1,5 @@
 
-public class 최소공약수 {
+public class 최소공배수 {
     private static final int[][] TEST_CASES = {
             {1, 1},
             {98, 49},
