@@ -1,6 +1,6 @@
-package org.example;
 
-public class Main {
+
+public class 소인수분해 {
 
     public static void main(String[] args) {
         System.out.println(soinsu(1234567890, 2, new StringBuilder()).toString());

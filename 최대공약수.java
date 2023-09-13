@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class 최대공약수 {
     private static final int[][] TEST_CASES = {
             {10, 20, 30, 40},
             {5, 7, 12}

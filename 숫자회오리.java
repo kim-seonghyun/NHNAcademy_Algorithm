@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class 숫자회오리 {
 
     private static final int[] TEST_CASES = {
             4,
